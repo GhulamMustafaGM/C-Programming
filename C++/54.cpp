@@ -1,4 +1,4 @@
-/*C++ pattern program 2*/
+/* C++ pattern program 2 */
 #include <iostream>
 using namespace std;
 
