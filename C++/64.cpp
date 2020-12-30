@@ -1,4 +1,4 @@
-/*C++ pattern program of numbers 12 */
+/* C++ pattern program of numbers 12 */
 #include <iostream>
 using namespace std;
 
