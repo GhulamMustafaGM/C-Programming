@@ -22,6 +22,7 @@ int main()
     }
     return 0;
 }
+
 /*output
 Enter any binary number:11
 Equivalent octal value of 11 :
