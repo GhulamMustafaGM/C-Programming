@@ -33,6 +33,7 @@ int main()
 	}
 
 	cout << endl << endl;
+    
 	// now, merge the two lists
 	lst1.merge(lst2);
 	if(lst2.empty())
