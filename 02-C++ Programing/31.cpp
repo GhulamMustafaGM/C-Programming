@@ -1,4 +1,4 @@
-// Demonstrate a friend funciton.
+// Demonstrate a friend function
 
 #include <iostream>
 using namespace std;
