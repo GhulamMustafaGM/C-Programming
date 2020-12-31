@@ -27,3 +27,10 @@ void f1()
 }
 
 /* 
+
+this is str in main()
+Ente rsomething: hello
+hello
+this is str in main()
+
+*/
