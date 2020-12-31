@@ -1,4 +1,4 @@
-// constructors, destructors, and passong objects.
+// constructors, destructors, and passing objects.
 
 #include <iostream>
 using namespace std;
