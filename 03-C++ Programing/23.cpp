@@ -1,4 +1,4 @@
-// Use get() to read a strin gthat contains spaces.
+// Use get() to read a string that contains spaces.
 
 #include <iostream>
 #include <fstream>
