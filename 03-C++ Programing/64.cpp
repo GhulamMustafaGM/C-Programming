@@ -1,4 +1,4 @@
-// sort a 
+// sort list
 
 #include <iostream>
 #include <list>
