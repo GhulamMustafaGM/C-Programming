@@ -1,4 +1,4 @@
-// Ehen construcytors and destructors are executed
+// constructors and destructors are executed
 
 #include <iostream>
 using namespace std;
