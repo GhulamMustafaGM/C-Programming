@@ -1,4 +1,4 @@
-// Class with objects 
+// Class with objects program 
 
 #include <iostream>
 #include <math.h>
