@@ -9,7 +9,7 @@ int main()
 
     std::string str{};
 
-    // input: a string
+    // Input: a string
     // INFO by Blue: these 😉 emojies doesn't work
     std::getline(std::cin, str);
     std::cout << "Your string is             :  " << str << std::endl;
