@@ -1,4 +1,4 @@
-// Use cctype progra 
+// Use cctype program 
 
 #include <iostream>
 #include <cctype>
