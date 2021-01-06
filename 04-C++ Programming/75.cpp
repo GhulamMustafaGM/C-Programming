@@ -1,4 +1,4 @@
-// Class and objects
+// Class and Objects with OOP 
 
 #include <iostream>
 #include <string>
