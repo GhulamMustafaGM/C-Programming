@@ -1,4 +1,4 @@
-// WhiteSapce Interpreter
+// WhiteSapce Interpreter Program
 
 #include <iostream>
 #include <vector>
