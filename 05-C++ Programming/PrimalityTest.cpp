@@ -1,4 +1,4 @@
-// Primality test
+// Primality Test
 
 #include <iostream>
 #include <cmath>
