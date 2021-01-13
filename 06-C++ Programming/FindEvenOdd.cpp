@@ -1,4 +1,4 @@
-// Find odd, even and prime number
+// Find even, odd and prime number
 
 #include <iostream>
 using namespace std;
