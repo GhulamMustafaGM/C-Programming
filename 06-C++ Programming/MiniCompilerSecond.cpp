@@ -299,3 +299,51 @@ struct Program
         return "C++ program:\n" + dtable.repr();
     }
 };
+
+// int func () {
+//     return 8;
+// }
+
+// int main () {
+//     return func ();
+// }
+int main()
+{
+    Program prog;
+
+    cout << "program ok\n";
+
+    Block_instr *block_instr_f1 = new Block_instr();
+
+    Block_instr *block_instr_f2 = new Block_instr();
+
+    cout << "instructions ok\n";
+
+    block_instr_f2->add_instr(
+        new Instruction());
+
+    block_instr_f2->add_instr(
+        new Return_instr(new BaseData("int", "", "8")));
+
+    prog.dtable.add_data(
+        new Function("int", "func", list<BaseData *>(), block_instr_f2));
+
+    block_instr_f1->add_instr(
+        new Instruction());
+
+    block_instr_f1->add_instr(
+        new Instruction());
+
+    block_instr_f1->add_instr(
+        new Return_instr(new BaseData(
+            "int", "func", "")));
+
+    prog.dtable.add_data(
+        new Function("int", "main",
+                     list<BaseData *>(), block_instr_f1));
+
+    cout << prog.repr();
+    prog.run();
+
+    return 0;
+}
