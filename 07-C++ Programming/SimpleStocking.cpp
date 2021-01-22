@@ -1,4 +1,4 @@
-// Simple stocking App
+// Simple stocking program
 
 #include <iostream>
 #include <windows.h>
