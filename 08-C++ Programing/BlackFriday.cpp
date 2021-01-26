@@ -1,4 +1,4 @@
-// Black fridays
+// Black fridays program
 
 #include <stdio.h>
 
