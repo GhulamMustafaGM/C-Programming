@@ -1,4 +1,4 @@
-// Imple recursion
+// Simple recursion
 
 #include <iostream>
 using namespace std;
