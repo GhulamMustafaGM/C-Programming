@@ -69,10 +69,5 @@ int main()
     //call the function to show min & max
     Max_Min(arr, s);
 
-    cout << "\n\n";
-    cout << "Thanks for your ";
-    cout << "caring...\n\n          ";
-    cout << "=======================";
-    cout << "\n\nRegards,\nMohammad";
     return 0;
 }
