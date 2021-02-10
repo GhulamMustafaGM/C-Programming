@@ -1,4 +1,4 @@
-// Counting stars
+// Counting stars app
 
 #include <iostream>
 using namespace std;
